@@ -2,7 +2,7 @@
 
 Submitted by: Shrinav Loka
 
-This web app: **insert description**
+This web app: This application allows users to flip through flashcards with English words on one side and their Spanish translations on the other side.
 
 Time spent: 5 hours spent in total
 
