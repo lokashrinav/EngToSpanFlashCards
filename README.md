@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/lokashrinav/CodePathProject1/blob/main/ezgif-2-3338f0bb9b.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/lokashrinav/CodePathProj2.0/blob/main/ezgif-1-6aafc51e05.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
