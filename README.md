@@ -2,7 +2,7 @@
 
 Submitted by: Shrinav Loka
 
-This web app: **insert description**
+This web app: This application allows users to flip through flashcards with English words on one side and their Spanish translations on the other side.
 
 Time spent: 5 hours spent in total
 
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/lokashrinav/CodePathProj2.0/blob/main/ezgif-1-6aafc51e05.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
